@@ -1,6 +1,6 @@
 # linux-chat
 
 # 来源
-()[https://gitee.com/picksan/linux-chat-room/tree/main]
+[gitee中的whitefloat博主](https://gitee.com/picksan/linux-chat-room/tree/main)
 
-()[https://www.lanqiao.cn/courses/3573]
+[蓝桥云课的Linux下使用 C++ 实现聊天室](https://www.lanqiao.cn/courses/3573）
